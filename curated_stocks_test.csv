@@ -1,0 +1,5 @@
+nse_symbol,isin,bse_id,name,sector
+TRENT,INE849A01020,500251,Trent,Retail & Real Estate
+TVSMOTOR,INE494B01023,532343,TVS Motor Company,Automotive
+VBL,INE200M01021,540180,Varun Beverages,Food & Beverages
+ZOMATO,INE758T01015,543320,Zomato,
