@@ -1,0 +1,80 @@
+nse_symbol,isin,bse_id,name,sector
+ABB,INE117A01022,500002,ABB India,Engineering & Capital Goods
+ACC,INE012A01025,500410,ACC,Cement & Construction
+ADANIGREEN,INE364U01010,541450,Adani Green Energy Limited,
+ADANIPORTS,INE742F01042,532921,Adani Ports and Special Economic Zone,Engineering & Capital Goods
+AMBUJACEM,INE079A01024,500425,Ambuja Cements,Cement & Construction
+ANGELONE,INE732I01013,543235,Angel One,
+ARE&M,INE885A01032,500008,Amara Raja Energy & Mobility,Automotive
+ASTRAL,INE006I01046,532830,Astral Limited,Manufacturing
+AUROPHARMA,INE406A01037,524804,Aurobindo Pharma,Pharmaceuticals
+AXISBANK,INE238A01034,532215,Axis Bank,Banking & Financial Services
+BAJAJ-AUTO,INE917I01010,532977,Bajaj Auto,Automotive
+BAJFINANCE,INE296A01024,500034,Bajaj Finance,Banking & Financial Services
+BDL,INE171Z01026,541143,Bharat Dynamics,Miscellaneous
+BEL,INE263A01024,500049,Bharat Electronics,Manufacturing
+BHARATFORG,INE465A01025,500493,Bharat Forge,Manufacturing
+BHARTIARTL,INE397D01024,532454,Bharti Airtel,Telecommunication
+BHEL,INE257A01026,500103,Bharat Heavy Electricals,Engineering & Capital Goods
+BPCL,INE029A01011,500547,Bharat Petroleum Corporation,Oil & Gas
+BSE,INE118H01025,0,BSE Limited,Miscellaneous
+CAMS,INE596I01012,543232,Computer Age Management Services,
+CANBK,INE476A01022,532483,Canara Bank,Banking & Financial Services
+CDSL,INE736A01011,0,Central Depository Services Ltd,Banking & Financial Services
+CIPLA,INE059A01026,500087,Cipla,Pharmaceuticals
+COALINDIA,INE522F01014,533278,Coal India,Metals & Mining
+COCHINSHIP,INE704P01025,540678,Cochin Shipyard,Miscellaneous
+CONCOR,INE111A01025,531344,Container Corporation of India,Services
+CYIENT,INE136B01020,532175,Cyient,Information Technology
+DIVISLAB,INE361B01024,532488,Divis Laboratories,Pharmaceuticals
+DRREDDY,INE089A01023,500124,Dr Reddys Laboratories,Pharmaceuticals
+EXIDEIND,INE302A01020,500086,Exide Industries,Automotive
+GAIL,INE129A01019,532155,GAIL India,Oil & Gas
+GLAND,INE068V01023,543245,Gland Pharma,
+GODREJPROP,INE484J01027,533150,Godrej Properties,Retail & Real Estate
+GRASIM,INE047A01021,500300,Grasim Industries,Conglomerates
+HAL,INE066F01020,541154,Hindustan Aeronautics,
+HCLTECH,INE860A01027,532281,HCL Technologies,Information Technology
+HDFCAMC,INE127D01025,541729,HDFC Asset Management Company,Banking & Financial Services
+HDFCBANK,INE040A01034,500180,HDFC Bank,Banking & Financial Services
+HINDCOPPER,INE531E01026,513599,Hindustan Copper,Metals & Mining
+HUDCO,INE031A01017,540530,Housing & Urban Development Corporation,Retail & Real Estate
+INDHOTEL,INE053A01029,500850,Indian Hotels Company,Services
+INDUSTOWER,INE121J01017,534816,INDUS TOWERS,Telecommunication
+INFY,INE009A01021,500209,Infosys,Information Technology
+INTELLECT,INE306R01017,538835,Intellect Design Arena,Information Technology
+IOC,INE242A01010,530965,Indian Oil Corporation,Oil & Gas
+IRFC,INE053F01010,543257,Indian Railway Finance Corporation,
+ITC,INE154A01025,500875,ITC,Tobacco
+JSWSTEEL,INE019A01038,500228,JSW Steel,Metals & Mining
+KALYANKJIL,INE303R01014,543278,Kalyan Jewellers India,
+MANKIND,INE634S01028,543904,Mankind Pharma,
+UNITDSPR,INE854D01024,532432,United Spirits,Food & Beverages
+NHPC,INE848E01016,533098,NHPC,Utilities
+NTPC,INE733E01010,532555,NTPC,Utilities
+ONGC,INE213A01029,500312,Oil and Natural Gas Corporation,Oil & Gas
+PEL,INE140A01024,500302,Piramal Enterprises,Pharmaceuticals
+PIDILITIND,INE318A01026,500331,Pidilite Industries,Chemicals
+POLICYBZR,INE417T01026,543390,PB Fintech,Miscellaneous
+POLYCAB,INE455K01017,542652,Polycab India,Engineering & Capital Goods
+PRESTIGE,INE811K01011,533274,Prestige Estates Projects,Retail & Real Estate
+RADICO,INE944F01028,532497,Radico Khaitan,Food & Beverages
+RAMCOCEM,INE331A01037,500260,The Ramco Cements,Cement & Construction
+RITES,INE320J01015,541556,RITES,Conglomerates
+RVNL,INE415G01027,542649,Rail Vikas Nigam,Miscellaneous
+SAIL,INE114A01011,500113,Steel Authority of India,Metals & Mining
+SJVN,INE002L01015,533206,SJVN,Utilities
+SUZLON,INE040H01021,532667,Suzlon Energy,Engineering & Capital Goods
+TATACHEM,INE092A01019,500770,Tata Chemicals,Chemicals
+TATACONSUM,INE192A01025,500800,TATA Consumer Products,Food & Beverages
+TATAELXSI,INE670A01012,500408,Tata Elxsi,Information Technology
+TATAMOTORS,INE155A01022,500570,Tata Motors,Automotive
+TATAMTRDVR,IN9155A01020,570001,TATA MOTORS - DVR,Miscellaneous
+TATAPOWER,INE245A01021,500400,The Tata Power Company,Utilities
+TATASTEEL,INE081A01020,500470,Tata Steel,Metals & Mining
+TCS,INE467B01029,532540,Tata Consultancy Services,Information Technology
+TITAN,INE280A01028,500114,Titan Company,Miscellaneous
+TRENT,INE849A01020,500251,Trent,Retail & Real Estate
+TVSMOTOR,INE494B01023,532343,TVS Motor Company,Automotive
+VBL,INE200M01021,540180,Varun Beverages,Food & Beverages
+ZOMATO,INE758T01015,543320,Zomato,
