@@ -1,7 +1,6 @@
 nse_symbol,isin,bse_id,name,sector
 ABB,INE117A01022,500002,ABB India,Engineering & Capital Goods
 ACC,INE012A01025,500410,ACC,Cement & Construction
-ADANIGREEN,INE364U01010,541450,Adani Green Energy Limited,
 ADANIPORTS,INE742F01042,532921,Adani Ports and Special Economic Zone,Engineering & Capital Goods
 AMBUJACEM,INE079A01024,500425,Ambuja Cements,Cement & Construction
 ANGELONE,INE732I01013,543235,Angel One,
