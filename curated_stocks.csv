@@ -1,4 +1,5 @@
 nse_symbol,isin,bse_id,name,sector
+NIFTY_50,Nifty 50,0,Nifty 50 Index,Nifty 50 Index
 ABB,INE117A01022,500002,ABB India,Engineering & Capital Goods
 ACC,INE012A01025,500410,ACC,Cement & Construction
 ADANIPORTS,INE742F01042,532921,Adani Ports and Special Economic Zone,Engineering & Capital Goods
